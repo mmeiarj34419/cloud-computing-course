@@ -1,1 +1,6 @@
-
+Apps that are in the cloud that i use everyday are Discord, Notion, and Photopea. 
+Discord is an example of a SaaS service and a public cloud service. All you need to do to access it is open Discord and, join servers for conversations with my classmates and to upload and share files. I do not need to worry about servers because everything is taken care of by someone else.
+Notion is of course also a SaaS service and a public cloud service. Notion is beneficial for me when I am taking notes for classes and organizing my projects. I am not worried about where information gets saved or what goes on behind the scenes.
+Photopea is yet another example of a SaaS service and a public cloud service. I only need to access a web browser to use the app to edit photos.
+In the case of real cloud applications, we can see that it is important to address version control. Nowadays, most of the cloud applications are written in code and without having Git in place people could ruin or overwrite each other's work.
+github makes teamwork much better. instead of just pushing changes, you make a pull request so your groupmates can check first. that way someone can catch mistakes early, like wrong settings or things that cost too much. you can also see who changed what. it helps a lot to avoid problems, especially when many people work on the same project.these tools make student life easier, but i also learned that its important to handle cloud resources carefully when working with a team.
